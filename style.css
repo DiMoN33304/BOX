@@ -65,3 +65,6 @@
 .card_21{
     grid-column: span 3;
 }
+.card card_1{
+    color: #000;
+}
